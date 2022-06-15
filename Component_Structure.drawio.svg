@@ -1,0 +1,262 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="556px" height="1001px" viewBox="-0.5 -0.5 556 1001" content="&lt;mxfile&gt;&lt;diagram id=&quot;UrYKwmQZUps8yhnlstGj&quot; name=&quot;Page-1&quot;&gt;7Vpdk6I4FP01Vs2+AQGUR7V7eqZqumpreqr2OUJAaiFhQtR2fv0mED5ioq0OOt1b+GDBgeTenJt7z0WcgGX++kRhsX4mEcomjhW9TsDDxHF8N+DfAtjXgBs4NZDQNKohuwNe0l9IgpZEN2mESuVGRkjG0kIFQ4IxCpmCQUrJTr0tJplqtYAJ0oCXEGY6+k8asXWNzjyrw7+gNFk3lm1LXslhc7MEyjWMyK4HgccJWFJCWH2Uvy5RJrhreKnHfT5ytXWMIszOGSB538JsI9f2gyLEkSXBDKYYUekn2zeLL3dpnkHMzxYlg5TJ8HBDYLEmNP0lRmYcsTkQNtP82BfiLiZmBwvdTen5FlGGXnuQdPsJkRwxuue3NFfdWT2k2UOS0V0XEM/zamzdD4bVBAPKXZC0c3dE8QPJlZk3oPGm8YQivmfkKcpWZPfYAYsK4BfEetNQ0FWTORe7k+OYVAQjHB0glGxwhIQXlpHHxg+yoaF0xJUZAmmC5F2SF+HiSa4pyiBLt+q2/x3eXI23eVFo1O3WKUMvBaxWsOMlRGwtljebSmyizzxnU5z0kGey7QCM+nQ/TKacKv/nRqTVogtMC03AvHddDVZ3k7PsTnrRMs9Sxcs8to3qWSOnD6cCfX7CBIGSL76eL3ZTlfr54g6QLZ4W9a94y1dC6P4Z4kQUGT8Ti12Jo6Qm7BgS85JS1faM0GqyjmPg808c96F67AuDDDUTcG/rOeS8FfdXGAMgCEzG2rVxQyVivVOz/auMB0EYmoxTRGiE6Le0ZLX5733gQgcucymOOSVAdylcCY3d4JClBJdDRyGORdB1q2uIowzNo0gSMCj7cRwEIp/MRr+jnGzRgV3dwBFPTtsN+Ue3SzCXGHR8iw8UYcsKQ6Geh+Yf45i3WWUvhoOwLHLZFNonxCpt+rlBJzb1qCm31xTHchRRsQ1dmD01qEorP78jK/7HbsKmQzdhcujfJK1ySsbIbWJyGKNmitpNOeqA/daNswIy1QLyBcHI8AwxJuMtktF7Oxdv1eHNPlAqenoqBv+7VAy0gCw3VNDStqP9jvBUY1BQUpQn27OygFiJdbO1parPBXPJ6pMjnsetKlMsWyhHd/zXOQ2c1dP62uYlnZP46FY488q8l3dk5h6F4GWWhv9e3P1dw6Vjuf1jA5eH/aHRHROl57rj2V00PdB543kGb0xPRNfE08T7BYSPmnR7TQJTpeC5nkGTZo6uSbY9gCg1c3xUVbLtPyNL7a/Tw8tSs6ReSGR5fy+61Kte/PioLh0+48Nc1Au8Kou3i+q1OnXUyChaV7mjKFXfHaNqUeMPaar9UVLuIClAfc4xakrg3kpTHK2AvV9NCQyaAu6jKWDmKlHybveoY+sv41ox+cpQvoQ0GkZQxpp67weBsaDevqD66ot03znzdyMbDFFP9TfC77eeNt2rUlAHf5duLqief7+CeuJ97VhQxyZ1rKlvN6lT535FlZ92/xir87372x14/A8=&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <path d="M 0 20 L 0 0 L 555 0 L 555 20" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 0 20 L 0 1000 L 555 1000 L 555 20" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 20 L 555 20" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="277" y="14.5">
+                Tree Container
+            </text>
+        </g>
+        <path d="M 159 100 L 159 120.38 L 287 120.38 L 287 140" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="99" y="60" width="120" height="40" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 80px; margin-left: 100px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                App
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="159" y="84" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    App
+                </text>
+            </switch>
+        </g>
+        <rect x="202" y="140" width="170" height="260" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 168px; height: 1px; padding-top: 270px; margin-left: 203px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                InventoryManger
+                                <br/>
+                                <br/>
+                                <font color="#6666ff">
+                                    State
+                                </font>
+                                :
+                                <br/>
+                                <font color="#3399ff">
+                                    Inventory/setInventory
+                                </font>
+                                <br/>
+                                <font color="#99ccff">
+                                    reorderList/setReorderList
+                                </font>
+                                <br/>
+                                <br/>
+                                <font color="#ff3333">
+                                    cb functions
+                                </font>
+                                :
+                                <br/>
+                                <font color="#ff6666">
+                                    handleAddReorder
+                                </font>
+                                <br/>
+                                <font color="#ff9999">
+                                    handleRemoveReorder
+                                    <br/>
+                                </font>
+                                <font color="#ffcccc">
+                                    onDelete
+                                </font>
+                                <br/>
+                                <br/>
+                                <font color="#00cc00">
+                                    Effects:
+                                </font>
+                                <br/>
+                                <font color="#66ff66">
+                                    Get request
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="287" y="274" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    InventoryManger...
+                </text>
+            </switch>
+        </g>
+        <path d="M 159 100 L 159 120.38 L 85 120.38 L 85 140" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="25" y="140" width="120" height="40" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 160px; margin-left: 26px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                Header
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="85" y="164" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Header
+                </text>
+            </switch>
+        </g>
+        <path d="M 287 400 L 287 425.14 L 128 425.14 L 128 450" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="37" y="450" width="182" height="110" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 180px; height: 1px; padding-top: 505px; margin-left: 38px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                CurrentInventoryList
+                                <br/>
+                                <br/>
+                                props:
+                                <br/>
+                                <span style="color: rgb(255 , 102 , 102)">
+                                    handleAddReorder
+                                </span>
+                                <font color="#ffffff">
+                                    as
+                                </font>
+                                <font color="#ffff66">
+                                    onClick
+                                    <br/>
+                                </font>
+                                <span style="color: rgb(255 , 204 , 204)">
+                                    onDelete
+                                    <br/>
+                                </span>
+                                <span style="color: rgb(51 , 153 , 255)">
+                                    Inventory
+                                </span>
+                                <font color="#ffff66">
+                                    <br/>
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="128" y="509" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    CurrentInventoryList...
+                </text>
+            </switch>
+        </g>
+        <path d="M 287 400 L 287 425.14 L 432 425.14 L 432 450" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="335" y="450" width="194" height="110" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 192px; height: 1px; padding-top: 505px; margin-left: 336px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                ReorderInventoryList
+                                <br/>
+                                <br/>
+                                props:
+                                <br/>
+                                <span style="color: rgb(255 , 153 , 153)">
+                                    handleRemoveReorder
+                                </span>
+                                <font color="#ffffff">
+                                    as
+                                </font>
+                                <font color="#ffff66">
+                                    onClick
+                                    <br/>
+                                </font>
+                                <span style="color: rgb(255 , 204 , 204)">
+                                    onDelete
+                                    <br/>
+                                </span>
+                                <span style="color: rgb(153 , 204 , 255)">
+                                    reorderList
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="432" y="509" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    ReorderInventoryList...
+                </text>
+            </switch>
+        </g>
+        <path d="M 128 560 L 128 589.9 L 128 620" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="68" y="620" width="120" height="130" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 685px; margin-left: 69px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                InventoryItemCard
+                                <br/>
+                                <br/>
+                                props:
+                                <br/>
+                                <font color="#ffff66">
+                                    onClick
+                                    <br/>
+                                </font>
+                                <span style="color: rgb(255 , 204 , 204)">
+                                    onDelete
+                                    <br/>
+                                </span>
+                                <span style="color: rgb(51 , 153 , 255)">
+                                    Inventory
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="128" y="689" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    InventoryItemCard...
+                </text>
+            </switch>
+        </g>
+        <path d="M 432 560 L 432 589.9 L 432 620" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="372" y="620" width="120" height="130" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 685px; margin-left: 373px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                InventoryItemCard
+                                <br/>
+                                <br/>
+                                props:
+                                <br/>
+                                <font color="#ffff66">
+                                    onClick
+                                    <br/>
+                                </font>
+                                <span style="color: rgb(255 , 204 , 204)">
+                                    onDelete
+                                    <br/>
+                                </span>
+                                <span style="color: rgb(153 , 204 , 255)">
+                                    reorderList
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="432" y="689" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    InventoryItemCard...
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>
