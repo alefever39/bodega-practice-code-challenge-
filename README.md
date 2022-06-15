@@ -27,6 +27,7 @@ Make sure to open [http://localhost:8001/inventory](http://localhost:8001/invent
 the browser to verify that your backend is working before you proceed!
 
 The base URL for your backend is: `http://localhost:8001`
+
 ## Core Deliverables
 
 As a user, I should be able to:
@@ -72,3 +73,7 @@ Example Response:
 ```json
 {}
 ```
+
+Component Structure of completed Code challenge:
+
+![Component Structure](./Component_Structure.drawio.svg)
